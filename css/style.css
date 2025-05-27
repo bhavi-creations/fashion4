@@ -1044,3 +1044,20 @@ margin: 0 15px 20px 15px;
 
 /** end contact section **/
 
+
+
+/* .Quick_section li{
+     color: white !important;
+     align-items: left !important;
+   
+} */
+
+.quick_anchor{
+     color: white !important;
+
+     font-size: 20px;
+     display: flex;
+
+     justify-content: left !important;
+     
+}
